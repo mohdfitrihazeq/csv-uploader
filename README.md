@@ -17,11 +17,11 @@ Display upload history and results
 
 **💪 Tech Stack**
 
-Laravel 10+
+Laravel 8.75
 
 PHP 8+
 
-MySQL / MariaDB
+MySQL
 
 Bootstrap (optional for frontend)
 
