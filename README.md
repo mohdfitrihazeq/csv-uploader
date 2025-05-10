@@ -69,6 +69,10 @@ php artisan serve
 
 Visit: http://localhost:8000
 
+**7. Process queued jobs in a Laravel application using Database**
+
+php artisan queue:work --tries=1 --verbose
+
 
 📁 File Structure
 
